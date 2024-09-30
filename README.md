@@ -1,4 +1,5 @@
 # urxvt-config
+My config for the urxvt terminal emulator.
 
 ## Installation and Setup 
 Install the urxvt terminal emulator
