@@ -46,7 +46,7 @@ URxvt.boldItalicfont: xft:DejaVuSansMono:style=Bold Italic:size=12
 
 URxvt.letterSpace: 0
 URxvt.lineSpace: 0
-URxvt.geometry: 80x30
+URxvt.geometry: 80x27
 URxvt.internalBorder: 0
 URxvt.cursorBlink: true
 URxvt.cursorUnderline: false
