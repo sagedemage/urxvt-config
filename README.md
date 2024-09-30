@@ -23,7 +23,7 @@ cp -v Xresources ~/.Xresources
 
 List fonts if you want to set a different font in the `~/.Xresources` file
 ```
-fc-list | grep "Noto Mono"
+fc-list | grep "DejaVuSansMono"
 ```
 
 Load Xresources file, `~/.Xresources`
